@@ -1,0 +1,9 @@
+configuration-as-code:latest
+git:latest
+workflow-aggregator:latest
+docker-plugin
+maven-plugin
+
+
+
+
